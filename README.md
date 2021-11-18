@@ -32,5 +32,4 @@
 Retirado da Fonte: https://github.com/team-learn-programming-yourself/jwt-youtube-ui
 https://github.com/team-learn-programming-yourself/jwt-youtube
 
-Apenas para fins de estudo
-NÃO foi criado o fork pois os projetos back end e front end estavam separados
+Apenas para fins de estudo, NÃO foi criado o fork pois os projetos back end e front end estavam separados
