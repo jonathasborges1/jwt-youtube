@@ -28,8 +28,9 @@
         └── JwtUtil.java
  
 ```
-
 **Keyword**: Spring Boot with Angular Authentication & Authorization 
+
+![image](https://user-images.githubusercontent.com/12356493/142494129-8f795946-1f29-443c-8945-de01371c4189.png)
 
 **Título**: Implementing Token and Role Base Authentication Using Spring Boot + JWT+ MySQL
 
