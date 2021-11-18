@@ -29,6 +29,11 @@
  
 ```
 
+Keyword: Spring Boot with Angular Authentication & Authorization 
+
+canal: Learn Programming Yourself
+Youtube: https://www.youtube.com/watch?v=VZjs6-_yccw. (3:18:11)
+
 Retirado da Fonte: https://github.com/team-learn-programming-yourself/jwt-youtube-ui
 https://github.com/team-learn-programming-yourself/jwt-youtube
 
